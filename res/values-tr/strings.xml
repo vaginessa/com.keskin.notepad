@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <string name="app_name">Not Defteri</string>
+    <string name="live_folder_name">Notlar</string>
+
+    <string name="title_edit_title">Note başlığı:</string>
+    <string name="title_create">Yeni not</string>
+    <string name="title_edit">Düzenle: %1$s</string>
+    <string name="title_notes_list">Notlar</string>
+
+    <string name="menu_add">Yeni not</string>
+    <string name="menu_save">Kaydet</string>
+    <string name="menu_delete">Sil</string>
+    <string name="menu_open">Aç</string>
+    <string name="menu_revert">Değişimi geri al</string>
+    <string name="menu_copy">Kopyala</string>
+    <string name="menu_paste">Yapıştır</string>
+
+    <string name="button_ok">Tamam</string>
+    <string name="text_title">Başlık:</string>
+
+    <string name="resolve_edit">Notu düzenle</string>
+    <string name="resolve_title">Başlığı düzenle</string>
+
+    <string name="error_title">Hata</string>
+	<string name="settings">Ayarlar</string>
+    <string name="error_message">Not yüklenirken hata oluştu</string>
+    <string name="nothing_to_save">Kaydedilemedi</string>
+</resources>

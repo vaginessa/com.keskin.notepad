@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="light" parent="@android:style/Theme.Light">
+	</style>
+	<style name="dark" parent="@android:style/Theme">
+	</style>
+	<style name="hololight" parent="@android:style/Theme.Holo.Light">
+	</style>
+	<style name="holodark" parent="@android:style/Theme.Holo">
+	</style>
+	<style name="materiallight" parent="@android:style/Theme.Material.Light">
+	</style>
+	<style name="materialdark" parent="@android:style/Theme.Material">
+	</style>
+	<style name="darkdialog" parent="@android:style/Theme.Dialog">
+	</style>
+	
+	<style name="holodarkdialog" parent="@android:style/Theme.Holo.Dialog">
+	</style>
+	
+	<style name="materialdarkdialog" parent="@android:style/Theme.Material.Dialog">
+	</style>
+</resources>
